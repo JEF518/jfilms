@@ -1,0 +1,24 @@
+{
+  "name": "movieplayground",
+  "version": "1.0.0",
+  "description": "a movie api playground",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "lint": "eslint './src/**/*.js'",
+    "lint:fix": "eslint --fix './src/**/*.js'",
+    "test:unit": "jest --config ./jest.config.js 'test\\/.*test\\.js'",
+    "test:unit:watch": "jest --config ./jest.config.js --watch 'test\\/.*test\\.js'",
+    "test:unit:coverage": "npm run test:unit -- --coverage"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^9.3.1",
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "eslint": "^7.6.0",
+    "koa": "^2.13.0"
+  }
+}
