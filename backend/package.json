@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "nodemon index.js",
-    "start": "node index.js",
+    "start": "concurrently \"node index.js\" \"cd ../frontend && npm start\"",
     "lint": "eslint './src/**/*.js'",
     "lint:fix": "eslint --fix './src/**/*.js'",
     "test:unit": "jest --config ./jest.config.js 'test\\/.*test\\.js'",
@@ -15,10 +15,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@koa/cors": "^3.1.0",
     "@koa/router": "^9.3.1",
     "axios": "^0.19.2",
     "dotenv": "^8.2.0",
     "eslint": "^7.6.0",
-    "koa": "^2.13.0"
+    "http-status": "^1.4.2",
+    "koa": "^2.13.0",
+    "koa-bodyparser": "^4.3.0",
+    "koa-cash": "^4.0.5",
+    "koa-logger": "^3.2.1",
+    "lru-cache": "^6.0.0"
   }
 }

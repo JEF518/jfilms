@@ -17,6 +17,7 @@ class FilmJSON {
     } ;
 
     async returnOneGenreMovies(genre){
+        console.log('getting...', genre, ' films');
         return new Promise(function(resolve, reject) {
             fs.readFile(dataPath, "utf8", (err, data) => {
                 if (err) {

@@ -1,0 +1,25 @@
+.genre-menu {
+    display: flex;
+    flex-flow: row;
+    overflow-y: scroll;
+    padding: 0 5px;
+    margin-top: 10%;
+    &__genre-card {
+        display: flex;
+        justify-content: center;
+        padding: 10% 5%;
+        margin-right: 5%;        
+        max-width: 5%;
+        font-weight:bold;
+        text-decoration: none;
+    }
+}
+@media only screen and (max-width: 600px) {
+.genre-menu__genre-card {
+min-width: 45%;
+min-height: 50vw;
+margin-top: 35%;
+&--text{
+margin-top: 45%;
+}
+}}

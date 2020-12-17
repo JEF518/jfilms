@@ -1,0 +1,72 @@
+.filmList {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    background-size: contain;
+    min-height: 100vw;
+    margin: -10px;
+}
+
+#old-horror{
+    color: whitesmoke;
+    background-image: url("../images/old-horror.jpg");
+}
+#comedy{
+    color: whitesmoke;
+    background-image: url("../images/comedy.jpg");
+}
+
+#drama{
+    color: whitesmoke;
+    background-image: url("../images/drama.jpg");
+}
+
+#critically-acclaimed{
+    color: whitesmoke;
+    background-image: url("../images/critically-acclaimed.jpg");
+}
+
+#sci-fi-supernatural{
+    color: whitesmoke;
+    background-image: url("../images/sci-fi-supernatural.jpg");
+}
+
+#old-thriller{
+    color: black;
+    background-image: url("../images/old-thriller.jpg");
+}
+
+#modern-thriller{
+    color: whitesmoke;
+    background-image: url("../images/modern-thriller.jpg");
+}
+
+
+#cult{
+    color: whitesmoke;
+    background-image: url("../images/cult.jpg");
+}
+
+#carpenter{
+    color: whitesmoke;
+    background-image: url("../images/carpenter.jpg");
+}
+
+#historical{
+    color: whitesmoke;
+    background-image: url("../images/historical.jpg");
+}
+
+#documentary{
+    color: whitesmoke;
+    background-image: url("../images/documentary.jpg");
+}
+
+#christmas{
+    color: whitesmoke;
+    background-image: url("../images/christmas.jpg");
+}
+#recent {
+    color: whitesmoke;
+    background-image: url('../images/recent.jpg');
+}

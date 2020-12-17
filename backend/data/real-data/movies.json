@@ -73,87 +73,57 @@
             "watched": false
         },
         {
-            "title": "25th Hour",
-            "year": "2002",
-            "category": "modern-thriller",
-            "watched": false
-        },
-        {
-            "title": "Eastern Promises ",
-            "year": "2007",
-            "category": "modern-thriller",
-            "watched": false
-        },
-        {
-            "title": "Don't Say a Word",
-            "year": "2001",
-            "category": "modern-thriller",
-            "watched": false
-        },
-        {
-            "title": "Training Day",
-            "year": "2001",
-            "category": "modern-thriller",
-            "watched": false
-        },
-        {
-            "title": "Man on Fire",
-            "year": "2004",
-            "category": "modern-thriller",
-            "watched": false
-        },
-        {
             "title": "Blast from the Past",
             "year": "1999",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "Dirty Rotten Scoundrels",
             "year": "1988",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "Idiocracy",
             "year": "2006",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "Outrageous Fortune",
             "year": "1987",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "Polyester",
             "year": "1981",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "Super Troopers",
             "year": "2001",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "The Love Witch",
             "year": "2016",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "The Secret Life of Walter Mitty",
             "year": "2013",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "The Whole Nine Yards",
             "year": "2000",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
@@ -225,12 +195,12 @@
         {
             "title": "The Associate ",
             "year": "1996",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
             "title": "In The Mouth of Madness",
-            "year": "1994",
+            "year": "1995",
             "category": "carpenter",
             "watched": false
         },
@@ -418,6 +388,36 @@
             "title": "The Lives of Others",
             "year": "2006",
             "category": "drama",
+            "watched": false
+        },
+                {
+            "title": "25th Hour",
+            "year": "2002",
+            "category": "modern-thriller",
+            "watched": false
+        },
+        {
+            "title": "Eastern Promises ",
+            "year": "2007",
+            "category": "modern-thriller",
+            "watched": false
+        },
+        {
+            "title": "Don't Say a Word",
+            "year": "2001",
+            "category": "modern-thriller",
+            "watched": false
+        },
+        {
+            "title": "Training Day",
+            "year": "2001",
+            "category": "modern-thriller",
+            "watched": false
+        },
+        {
+            "title": "Man on Fire",
+            "year": "2004",
+            "category": "modern-thriller",
             "watched": false
         },
         {
@@ -693,7 +693,7 @@
         {
             "title": "Keeping Mum",
             "year": "2005",
-            "category": "comedies",
+            "category": "comedy",
             "watched": false
         },
         {
@@ -735,25 +735,25 @@
         {
             "title": "The Wolfpack",
             "year": "2015",
-            "category": "documentaries",
+            "category": "documentary",
             "watched": false
         },
         {
             "title": "Going Clear",
             "year": "2015",
-            "category": "documentaries",
+            "category": "documentary",
             "watched": false
         },
         {
             "title": "An Honest Liar",
             "year": "2014",
-            "category": "documentaries",
+            "category": "documentary",
             "watched": false
         },
         {
             "title": "Something Ventured",
             "year": "2011",
-            "category": "documentaries",
+            "category": "documentary",
             "watched": false
         },
         {
